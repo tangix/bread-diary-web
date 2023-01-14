@@ -8,4 +8,4 @@ categories: bröd matbröd
 
 Spännande recept med 10 minuter initial jäsning och sedan lång jäsning efter att ha blivit utbakade. God sälta på grund av grönmögelosten och en riktigt frasig yta. Passar antagligen bra som ett matbröd.
 
-Betyg: 3
+Betyg: 3.
