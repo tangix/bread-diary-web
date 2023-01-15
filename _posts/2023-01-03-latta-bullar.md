@@ -4,7 +4,7 @@ layout: post
 categories: bröd potatismjöl
 ---
 
-![Lätta bullar från Irland](images/002-latta-bullar-f-irland.jpeg)
+![Lätta bullar från Irland]({{ site.url }}{{ site.baseurl }}/images/002-latta-bullar-f-irland.jpeg)
 
 Spännande recept med en redning av potatismjöl tillsammans med resten av degvätskan. Kryddade med salt och malda korianderfrön enligt receptet. Koriandern kändes dock inte alls i det färdiga brödet?!? Man undrar hur det skulle smakat utan?
 
