@@ -29,8 +29,8 @@ comments:
 #  isso_domain: ""         # see https://posativ.org/isso/
 
 domain: tangix.github.io      
-url: 'https://tangix.github.io/' 
-baseurl: 'bread-diary-web'   
+url: 'https://tangix.github.io' 
+baseurl: '/bread-diary-web'   
 
 plugins:
  - jekyll-feed
