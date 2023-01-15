@@ -28,9 +28,9 @@ comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
-domain: tangix.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://tangix.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /bread-diary-web/      # place folder name if the site is served in a subfolder
+domain: tangix.github.io      
+url: 'https://tangix.github.io/' 
+baseurl: 'bread-diary-web'   
 
 plugins:
  - jekyll-feed
