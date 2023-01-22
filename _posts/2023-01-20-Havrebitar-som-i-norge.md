@@ -4,7 +4,7 @@ layout: post
 categories: bröd havregryn honung
 ---
 
-![Tekakor]({{ site.url }}{{ site.baseurl }}/images/006-havrebitar-som-i-norge.jpeg)
+![Havrebitar som i Norge]({{ site.url }}{{ site.baseurl }}/images/006-havrebitar-som-i-norge.jpeg)
 
 Började med en havregrynsgröt med smör och honung. På med mjölet, behövdes lite mer, ca 1 dl, än i receptet för att den skulle släppa från bunken. Jäsning i bunke och sedan ned i långpannan för slutlig jäsning till dubbel storlek (cirka 45 minuter).
 
