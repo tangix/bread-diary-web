@@ -12,5 +12,4 @@ För att testa hushållets "prepping" så testade jag att köra vår Kenwood på
 
 ![Skånelimpa]({{ site.url }}{{ site.baseurl }}/images/007-ecoflow.jpeg)
 
-
 Betyg: 3
