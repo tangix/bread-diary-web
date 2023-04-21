@@ -8,4 +8,4 @@ categories: bröd
 
 Riktigt fina limpor som jäste fint. Premiär för att snitta dem med rakbladet från Amazon och de blev precis som på bilden i kokboken.
 
-Betyg: *
+Betyg: 5
