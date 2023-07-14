@@ -1,11 +1,10 @@
-
 ---
 title:  "Bröd #020 - Sirapslimpa"
 layout: post
 categories: bröd sirap
 ---
 
-Bästa baket så här långt! Knådades i de 15 minuter som receptet föreskrev. Jäste otroligt men jätteluftigt och blev bara två små limpor vid utbaket. Jäste otroligt igen.
+Bästa baket så här långt! Knådades i de 15 minuter som receptet föreskrev. Jäste otroligt men jätteluftigt och blev bara två små limpor vid utbaket. Jäste en gång till och blev stora.
 
 ![Sirapslimpa]({{ site.url }}{{ site.baseurl }}/images/020-sirapslimpa.jpeg)
 
